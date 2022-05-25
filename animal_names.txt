@@ -1,3 +1,6 @@
 Monkey
 Dog
 Cat
+Elephant
+Parrot
+Crow
